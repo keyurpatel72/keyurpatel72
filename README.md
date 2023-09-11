@@ -1,10 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Keyur Patel</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src"https://i2.wp.com/developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
+<img align="right" alt="coding" width="400" src="https://i2.wp.com/developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyurpatel72" alt="keyurpatel72" /></a> </p>
 
 - 🔭 I’m currently working on **Tic-Tac-Toe MERN**
 
