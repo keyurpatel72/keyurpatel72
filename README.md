@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **keyurp7298@gmail.com**
 
-- 📄 Know about my experiences [https://app.enhancv.com/share/e0949ef0/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/e0949ef0/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+  
 
 - ⚡ Fun fact **I Am Funny**
 
